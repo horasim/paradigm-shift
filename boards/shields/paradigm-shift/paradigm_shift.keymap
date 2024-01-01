@@ -43,16 +43,16 @@
 
           	number_layer {
 		bindings = <
-		&kp NUM_1  &kp NUM_2    &kp NUM_3    &kp NUM_4    &kp NUM_5		&kp NUM_6 &kp NUM_7 &kp NUM_8 &kp NUM_9 &kp NUM_0
-		&kp LEFT &kp DOWN &kp UP  &kp RIGHT  &kp GRAVE  		&kp PLUS &kp MINUS &kp SLASH &kp STAR &kp EQUAL
-		&kp RPAR &kp LPAR &kp LBRC &kp RBRC 				        	      &kp SEMI &kp CMMA &kp DOT &kp RET
+		&kp NUM_1  &kp NUM_2  &kp NUM_3  &kp NUM_4  &kp NUM_5		&kp NUM_6  &kp NUM_7  &kp NUM_8  &kp NUM_9  &kp NUM_0
+		&kp LEFT   &kp DOWN   &kp UP     &kp RIGHT  &kp GRAVE  		&kp PLUS   &kp MINUS  &kp SLASH  &kp STAR   &kp EQUAL
+		&kp RPAR   &kp LPAR   &kp LBRC   &kp RBRC 				        	   &kp SEMI   &kp CMMA   &kp DOT    &kp RET
           			&kp LCTRL &sk LSHFT &to 2		&to 0 &kp LGUI &kp LSHFT
 		>;
 		};
 
             maintenance_layer {
 		bindings = <
-		&kp NUM_1  &kp NUM_2    &kp NUM_3    &kp NUM_4    &kp NUM_5		&kp NUM_6 &kp NUM_7 &kp NUM_8 &kp NUM_9 &kp NUM_0
+		&kp NUM_1  &kp NUM_2  &kp NUM_3  &kp NUM_4  &kp NUM_5	    &kp NUM_6  &kp NUM_7  &kp NUM_8  &kp NUM_9  &kp NUM_0
 		&bt BT_CLR &kp MINUS &kp SLASH &kp STAR &kp EQUAL 			      &kp GRAVE &kp LEFT &kp DOWN &kp UP  &kp RIGHT
 		&kp RPAR &kp LPAR &kp LBRC &kp RBRC 				        	      &kp SEMI &kp CMMA &kp DOT &kp RET
           			&kp V &kp LCTRL &to 1		&to 0 &kp RGUI &kp LSHFT
