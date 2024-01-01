@@ -1,0 +1,5 @@
+#include "paradigm_shift.dtsi"
+
+&default_transform {
+	col-offset = <17>;
+};

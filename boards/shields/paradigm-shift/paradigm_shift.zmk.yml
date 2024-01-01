@@ -1,0 +1,11 @@
+file_format: "1"
+id: paradigm_shift
+name: paradigm_shift
+type: shield
+url: https://github.com/horasim/paradigm-shift
+requires: [nice_nano_v2]
+features:
+  - keys
+siblings:
+  - paradigm_shift_left
+  - paradigm_shift_right
