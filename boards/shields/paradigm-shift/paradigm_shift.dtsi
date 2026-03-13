@@ -17,7 +17,6 @@
 
 	chosen {
 		zmk,kscan = &kscan0;
-		zmk,matrix_transform = &default_transform;
 		zmk,physical-layout = &paradigm_shift_physical_layout;
 	};
 
